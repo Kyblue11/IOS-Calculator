@@ -7,6 +7,8 @@
  
  Author: **Aaron** </br>
 
+![Calculator](./calculator.png)
+
 ## Usage
 
 Setup (requires node.js):
