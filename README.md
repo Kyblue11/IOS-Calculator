@@ -1,6 +1,10 @@
 # FRP Calculator
- A demonstration of building a calculator app using Functional Reactive Programming in Typescript!</br>
- Includes extra features like a history of calculations, user input validation, and a dark mode theme. </br>
+ A demonstration of building a calculator app using **only** Functional Reactive Programming in Typescript!</br>
+ Includes extra features like 
+ 1. history of calculations
+ 2. alternative user input validation
+ 3. dark mode theme. </br>
+ 
  Author: **Aaron** </br>
 
 ## Usage
