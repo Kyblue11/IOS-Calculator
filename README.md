@@ -7,7 +7,7 @@
  
  Author: **Aaron** </br>
 
-![Calculator](./calculator.png)
+<img src="./calculator.png" alt="Calculator" width="30%">
 
 ## Usage
 
