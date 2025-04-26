@@ -1,4 +1,5 @@
-# FRP Calculator
+# IOS Calculator
+ My attempt of the MHack FRP Challenge!
  A demonstration of building a calculator app using **only** Functional Reactive Programming in Typescript!</br>
  Includes extra features like 
  1. history of calculations
